@@ -1,0 +1,67 @@
+{
+    "data": {
+        "rooms": [
+            {
+                "id": 1,
+                "name": "Habitación Interna",
+                "features": [
+                    "Cama doble",
+                    "Mesa de noche",
+                    "Perchero",
+                    "Baño privado",
+                    "Internet",
+                    "Ventilador",
+                    "Smart TV sin parabólica"
+                ],
+                "capacity": 3,
+                "price": "70.000"
+            },
+            {
+                "id": 5,
+                "name": "Habitación Familiar",
+                "features": [
+                    "2 Camarotes",
+                    "Mesa de noche",
+                    "Perchero",
+                    "Baño privado",
+                    "Internet",
+                    "Ventilador",
+                    "Smart TV sin parabólica",
+                    "Balcón"
+                ],
+                "capacity": 5,
+                "price": "250.000"
+            },
+            {
+                "id": 6,
+                "name": "Habitación con Bañera",
+                "features": [
+                    "Cama doble",
+                    "Mesa de noche",
+                    "Perchero",
+                    "Baño privado con bañera",
+                    "Internet",
+                    "Ventilador",
+                    "Smart TV sin parabólica"
+                ],
+                "capacity": 3,
+                "price": "90.000"
+            },
+            {
+                "id": 7,
+                "name": "Habitación con Jacuzzi",
+                "features": [
+                    "Cama doble",
+                    "Mesa de noche",
+                    "Perchero",
+                    "Baño privado con Jacuzzi",
+                    "Internet",
+                    "Ventilador",
+                    "Smart TV sin parabólica"
+                ],
+                "capacity": 3,
+                "price": "180.000"
+            }
+        ]
+    }
+}
